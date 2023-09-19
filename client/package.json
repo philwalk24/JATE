@@ -1,12 +1,12 @@
 {
-  "name": "JATE",
+  "name": "JATE-client",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
   "author": "2U",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
