@@ -15,7 +15,8 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.51.1"
   },
   "engines": {
     "node": "16.20.1"
